@@ -1,0 +1,28 @@
+name: RustyRobson
+favicon: null
+layout_spectrum: 0.8242195423226804
+typography_spectrum: 0.8743002454284579
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8214170022401959
+  lightness: 0.28325700596906245
+  saturation: 0.20367507194168866
+  rhythmicContrast: 0.3258638179395348
+purpose: []
