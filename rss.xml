@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[RustyRobson]]></title>
-        <description><![CDATA[RustyRobson]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Reconnaissance Group Affiliate Network]]></title>
+        <description><![CDATA[Reconnaissance Group Affiliate Network]]></description>
+        <link>https://thegrid.ai/rustyrobson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 21:56:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 22:30:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rustyrobson/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/42b5b65d-d98d-4dbf-97eb-e7a7a6b0e0ff.jpg">]]></description>
+            <link>https://thegrid.ai/rustyrobson/entrepreneurial-hunger-games-why-the-odds-are-never-in-you/index.html</link>
+            <guid isPermaLink="false">a1584a6f-6c86-423d-8702-3c618a9088b4</guid>
+            <pubDate>Mon, 14 Mar 2016 22:30:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d004d7b-9346-480f-beed-cfa84490de0a.jpg">]]></description>
-            <link>undefinedthe-grid-beta-is-live-lets-see-how-versatile-this-progra/index.html</link>
+            <link>https://thegrid.ai/rustyrobson/the-grid-beta-is-live-lets-see-how-versatile-this-progra/index.html</link>
             <guid isPermaLink="false">662d64e2-2657-49e7-bb33-46655da03481</guid>
             <pubDate>Mon, 14 Mar 2016 21:54:57 GMT</pubDate>
         </item>
