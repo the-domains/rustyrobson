@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Entrepreneurial Hunger Games - Why the odds are Never in your favor
-datePublished: '2016-03-15T00:07:36.972Z'
-dateModified: '2016-03-14T22:56:06.465Z'
+datePublished: '2016-03-15T00:09:07.257Z'
+dateModified: '2016-03-15T00:08:55.871Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-14-entrepreneurial-hunger-games-why-the-odds-are-never-in-you.md
@@ -22,6 +22,8 @@ url: entrepreneurial-hunger-games-why-the-odds-are-never-in-you/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f5d0f59-30d1-465e-b870-f23649b68d14.jpg)
+
 Entrepreneurial Hunger Games - Why the odds are Never in your favor
 
 Core concept here is that Solo-preneurs stay busy, unfulfilled, and live pay check to pay check, while Tribal Leaders live the life they've always wanted.
