@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Entrepreneurial Hunger Games - Why the odds are Never in your favor
-datePublished: '2016-03-15T00:09:07.257Z'
-dateModified: '2016-03-15T00:08:55.871Z'
+datePublished: '2016-03-15T00:12:34.785Z'
+dateModified: '2016-03-15T00:12:26.295Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-14-entrepreneurial-hunger-games-why-the-odds-are-never-in-you.md
@@ -31,4 +31,4 @@ Core concept here is that Solo-preneurs stay busy, unfulfilled, and live pay che
 The answer to becoming a Tribal Leader can be summarized as VR2 (VR squared), which stands for Value x Reach squared.
 
 Therefore the BIG promise is to provide the means to turn Solo-preneurs in to Tribal Leaders.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2360a71-ca47-4a17-a7ea-dcfe1c06958e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6caee717-ba6a-48f9-8544-a29a4455f773.jpg)
