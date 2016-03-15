@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Entrepreneurial Hunger Games - Why the odds are Never in your favor
-datePublished: '2016-03-15T00:12:34.785Z'
-dateModified: '2016-03-15T00:12:26.295Z'
-title: ''
+datePublished: '2016-03-15T01:41:54.608Z'
+dateModified: '2016-03-15T01:41:53.182Z'
+title: Entrepreneurial Hunger Games
 author: []
 sourcePath: _posts/2016-03-14-entrepreneurial-hunger-games-why-the-odds-are-never-in-you.md
 published: true
